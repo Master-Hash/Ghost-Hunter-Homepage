@@ -12,6 +12,7 @@
 - [通知: 共计 3 条](./data/notice.md)
 - [题目: JUNO probe](./data/gh2024.md)
 - [日程安排](./data/schedule.md)
+- [排行榜](./leaderboard.md)
 
 # 赛事培训
 
